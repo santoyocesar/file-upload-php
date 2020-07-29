@@ -1,0 +1,16 @@
+{
+    "name": "santoyocesar/file-upload-php",
+    "description": "A class for save the uploaded files with php.",
+    "type": "library",
+    "require": {
+        "php": "4.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cesar Santoyo",
+            "email": "cesar.santoyo.romero@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
