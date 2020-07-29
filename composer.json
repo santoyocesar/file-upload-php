@@ -3,7 +3,6 @@
     "description": "A class for save the uploaded files with php.",
     "type": "library",
     "require": {
-        "php": "^7.*"
     },
     "license": "MIT",
     "authors": [
