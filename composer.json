@@ -2,8 +2,7 @@
     "name": "santoyocesar/file-upload-php",
     "description": "A class for save the uploaded files with php.",
     "type": "library",
-    "require": {
-    },
+    "require": {},
     "license": "MIT",
     "authors": [
         {
